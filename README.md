@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Álvaro
 
-<!--
-**alvaroquirozjaimes/alvaroquirozjaimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero de Sistemas | Desarrollador Fullstack SSR**
 
-Here are some ideas to get you started:
+Apasionado por crear soluciones eficientes y escalables usando tecnologías modernas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Backend:** Java (Spring Boot), PHP (Laravel), Python (Django)  
+- ⚛️ **Frontend y JavaScript:** JavaScript/TypeScript (Node.js, React, Angular, Express)  
+- 🗄️ **Bases de datos:** MySQL, PostgreSQL, Oracle  
+- 🚀 **Arquitectura:** Microservicios  
+
+🌍 Ubicación: Huánuco, Perú  
+📫 Contáctame: [alvaroquiroz159357@gmail.com](mailto:alvaroquiroz159357@gmail.com)  
+
+---
+
+Gracias por visitar mi perfil. ¡Conectemos! 🚀
