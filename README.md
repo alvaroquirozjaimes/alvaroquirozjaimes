@@ -5,7 +5,7 @@
 Apasionado por crear soluciones eficientes y escalables usando tecnologías modernas:
 
 - 💻 **Backend:** Java (Spring Boot), PHP (Laravel), Python (Django)  
-- ⚛️ **Frontend y JavaScript:** JavaScript/TypeScript (Node.js, React, Angular, Express)  
+- ⚛️ **Frontend:** JavaScript/TypeScript (Node.js, React, Angular, Express)  
 - 🗄️ **Bases de datos:** MySQL, PostgreSQL, Oracle  
 - 🚀 **Arquitectura:** Microservicios  
 
