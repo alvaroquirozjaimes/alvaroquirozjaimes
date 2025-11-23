@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Álvaro
 
-**Ingeniero de Sistemas | Desarrollador Fullstack SSR**
+**Ingeniero de Sistemas | Desarrollador Fullstack SR**
 
 Apasionado por crear soluciones eficientes y escalables usando tecnologías modernas:
 
